@@ -1,0 +1,13 @@
+"""Record types emitted by the shared evaluation executor."""
+
+PROMPT_SNAPSHOT = "prompt-snapshot"
+MODEL_CALL = "model-call"
+TASK_RECORD = "task-record"
+ATTEMPT_RECORD = "attempt-record"
+ENVIRONMENT_STEP_RECORD = "environment-step-record"
+ACTION_CONTRACT_RECORD = "action-contract-record"
+CONFORMANCE_RECORD = "conformance-record"
+ERROR_RECORD = "error-record"
+EXACT_CATALOG_RECORD = "exact-catalog-record"
+EPISODE_RECORD = "episode-record"
+BENCHMARK_WORKER = "benchmark-worker"

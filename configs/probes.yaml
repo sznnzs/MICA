@@ -1,0 +1,7 @@
+generation:
+  temperature: 0.6
+  top_p: 1.0
+  max_input_tokens: 24576
+  max_new_tokens: 16384
+  max_model_len: 40960
+  output_budget_policy: fixed_output

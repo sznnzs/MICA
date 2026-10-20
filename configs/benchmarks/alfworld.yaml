@@ -1,0 +1,17 @@
+benchmark:
+  name: alfworld
+  config_path: configs/environments/alfworld.yaml
+  task_file: configs/tasks/alfworld.json
+  split: eval_out_of_distribution
+  max_steps: 50
+  worker_timeout_seconds: 300
+  runtime:
+    python: ${ALFWORLD_PYTHON:-python}
+    env:
+      ALFWORLD_DATA: ${ALFWORLD_DATA:-data/alfworld}
+context:
+  history_max_events: 100
+  history_max_tokens: 24000
+execution:
+  max_decisions: 75
+  max_model_calls: 150

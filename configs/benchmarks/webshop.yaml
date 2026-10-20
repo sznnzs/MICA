@@ -1,0 +1,25 @@
+benchmark:
+  name: webshop
+  webshop_root: ${WEBSHOP_ROOT:-external/webshop}
+  task_file: configs/tasks/webshop.json
+  catalog: small
+  inventory_seed: 1
+  environment_profile: restricted_text
+  observation_mode: text_rich
+  retrieval_backend: lexical_token_overlap
+  reward_nlp_backend: all_tokens_as_nouns
+  split: custom_all
+  max_actions: 0
+  max_steps: 30
+  scenario:
+    option_keys: []
+    option_keys_mode: any
+  worker_timeout_seconds: 300
+  runtime:
+    python: ${WEBSHOP_PYTHON:-python}
+context:
+  history_max_events: 30
+  history_max_tokens: 12000
+execution:
+  max_decisions: 45
+  max_model_calls: 90

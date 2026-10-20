@@ -1,0 +1,29 @@
+generation:
+  temperature: 0.0
+  top_p: 1.0
+  max_input_tokens: 24576
+  max_new_tokens: 16384
+  max_model_len: 40960
+  output_budget_policy: fixed_output
+context:
+  type: history_only
+  external_context_max_tokens: 0
+  input_safety_margin_ratio: 0.05
+  input_safety_margin_tokens: 1024
+  correction_feedback_budget_policy: borrow_from_unused_input
+  history_output_budget_policy: summarize_exhausted_response
+execution:
+  max_calls_per_step: 2
+  accepted_no_progress_policy: exact_repeat_structured_retry
+interface:
+  max_retries: 1
+  protocol_version: mica-interface
+  conformance_required: true
+  runtime_semantic_llm: none
+  transport: not_in_scope
+seeds:
+  environment: 21
+  generation: 31
+  sampling: 11
+prompt:
+  prompt_id: interface

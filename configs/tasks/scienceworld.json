@@ -1,0 +1,1302 @@
+[
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 110
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:110",
+    "environment_seed": 2101
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 114
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:114",
+    "environment_seed": 2102
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 109
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:109",
+    "environment_seed": 2103
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 118
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:118",
+    "environment_seed": 2104
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 93
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:93",
+    "environment_seed": 2105
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 113
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:113",
+    "environment_seed": 2106
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 98
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:98",
+    "environment_seed": 2107
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 122
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:122",
+    "environment_seed": 2108
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 123
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:123",
+    "environment_seed": 2109
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 119
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:119",
+    "environment_seed": 2110
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 95
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:95",
+    "environment_seed": 2111
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 115
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:115",
+    "environment_seed": 2112
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 99
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:99",
+    "environment_seed": 2113
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 116
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:116",
+    "environment_seed": 2114
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 106
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:106",
+    "environment_seed": 2115
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 125
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:125",
+    "environment_seed": 2116
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 111
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:111",
+    "environment_seed": 2117
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 96
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:96",
+    "environment_seed": 2118
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 94
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:94",
+    "environment_seed": 2119
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 105
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:105",
+    "environment_seed": 2120
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 108
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:108",
+    "environment_seed": 2121
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 117
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:117",
+    "environment_seed": 2122
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 107
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:107",
+    "environment_seed": 2123
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 120
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:120",
+    "environment_seed": 2124
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "grow-plant",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "grow-plant",
+      "variation_idx": 102
+    },
+    "split": "test",
+    "task_id": "scienceworld:grow-plant:test:102",
+    "environment_seed": 2125
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 361
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:361",
+    "environment_seed": 2126
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 367
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:367",
+    "environment_seed": 2127
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 359
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:359",
+    "environment_seed": 2128
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 381
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:381",
+    "environment_seed": 2129
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 405
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:405",
+    "environment_seed": 2130
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 365
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:365",
+    "environment_seed": 2131
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 416
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:416",
+    "environment_seed": 2132
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 385
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:385",
+    "environment_seed": 2133
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 390
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:390",
+    "environment_seed": 2134
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 382
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:382",
+    "environment_seed": 2135
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 409
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:409",
+    "environment_seed": 2136
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 371
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:371",
+    "environment_seed": 2137
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 420
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:420",
+    "environment_seed": 2138
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 375
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:375",
+    "environment_seed": 2139
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 335
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:335",
+    "environment_seed": 2140
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 399
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:399",
+    "environment_seed": 2141
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 364
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:364",
+    "environment_seed": 2142
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 415
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:415",
+    "environment_seed": 2143
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 408
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:408",
+    "environment_seed": 2144
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 330
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:330",
+    "environment_seed": 2145
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 349
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:349",
+    "environment_seed": 2146
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 376
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:376",
+    "environment_seed": 2147
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 337
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:337",
+    "environment_seed": 2148
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 383
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:383",
+    "environment_seed": 2149
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-known-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-known-substance",
+      "variation_idx": 327
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-known-substance:test:327",
+    "environment_seed": 2150
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 754
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:754",
+    "environment_seed": 2151
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 764
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:764",
+    "environment_seed": 2152
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 745
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:745",
+    "environment_seed": 2153
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 823
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:823",
+    "environment_seed": 2154
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 855
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:855",
+    "environment_seed": 2155
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 758
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:758",
+    "environment_seed": 2156
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 893
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:893",
+    "environment_seed": 2157
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 839
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:839",
+    "environment_seed": 2158
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 842
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:842",
+    "environment_seed": 2159
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 825
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:825",
+    "environment_seed": 2160
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 875
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:875",
+    "environment_seed": 2161
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 765
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:765",
+    "environment_seed": 2162
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 898
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:898",
+    "environment_seed": 2163
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 772
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:772",
+    "environment_seed": 2164
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 706
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:706",
+    "environment_seed": 2165
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 845
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:845",
+    "environment_seed": 2166
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 757
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:757",
+    "environment_seed": 2167
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 892
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:892",
+    "environment_seed": 2168
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 866
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:866",
+    "environment_seed": 2169
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 696
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:696",
+    "environment_seed": 2170
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 716
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:716",
+    "environment_seed": 2171
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 807
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:807",
+    "environment_seed": 2172
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 715
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:715",
+    "environment_seed": 2173
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 830
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:830",
+    "environment_seed": 2174
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "test-conductivity",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "test-conductivity",
+      "variation_idx": 675
+    },
+    "split": "test",
+    "task_id": "scienceworld:test-conductivity:test:675",
+    "environment_seed": 2175
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 290
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:290",
+    "environment_seed": 2176
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 274
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:274",
+    "environment_seed": 2177
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 265
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:265",
+    "environment_seed": 2178
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 256
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:256",
+    "environment_seed": 2179
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 281
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:281",
+    "environment_seed": 2180
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 257
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:257",
+    "environment_seed": 2181
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 249
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:249",
+    "environment_seed": 2182
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 234
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:234",
+    "environment_seed": 2183
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 269
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:269",
+    "environment_seed": 2184
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 291
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:291",
+    "environment_seed": 2185
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 252
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:252",
+    "environment_seed": 2186
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 296
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:296",
+    "environment_seed": 2187
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 283
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:283",
+    "environment_seed": 2188
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 235
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:235",
+    "environment_seed": 2189
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 276
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:276",
+    "environment_seed": 2190
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 289
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:289",
+    "environment_seed": 2191
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 280
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:280",
+    "environment_seed": 2192
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 266
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:266",
+    "environment_seed": 2193
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 244
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:244",
+    "environment_seed": 2194
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 255
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:255",
+    "environment_seed": 2195
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 245
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:245",
+    "environment_seed": 2196
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 284
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:284",
+    "environment_seed": 2197
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 241
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:241",
+    "environment_seed": 2198
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 287
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:287",
+    "environment_seed": 2199
+  },
+  {
+    "benchmark": "scienceworld",
+    "family": "measure-melting-point-unknown-substance",
+    "instruction": "",
+    "metadata": {
+      "simplification": "easy",
+      "task_name": "measure-melting-point-unknown-substance",
+      "variation_idx": 227
+    },
+    "split": "test",
+    "task_id": "scienceworld:measure-melting-point-unknown-substance:test:227",
+    "environment_seed": 2200
+  }
+]

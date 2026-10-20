@@ -1,0 +1,19 @@
+benchmark:
+  name: scienceworld
+  task_file: configs/tasks/scienceworld.json
+  split: test
+  simplification: easy
+  action_execution: official_text_parser
+  action_space_presentation: visible_schema
+  history_presentation: action_response_only
+  observation_presentation: response_look_inventory
+  max_steps: 32
+  worker_timeout_seconds: 300
+  runtime:
+    python: ${SCIENCEWORLD_PYTHON:-python}
+context:
+  history_max_events: 8
+  history_max_tokens: 8000
+execution:
+  max_decisions: 32
+  max_model_calls: 32

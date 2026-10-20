@@ -1,0 +1,2324 @@
+[
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Makeup Brushes & Tools › Brush Sets",
+    "instruction": "Find me high quality, easy carry eyes makeup for eye shadow with color: apricot, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Makeup Brushes & Tools › Brush Sets",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6293,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6293",
+    "environment_seed": 2101
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+    "instruction": "Find me teeth whitening, easy use children's dental care with color: d, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6045,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6045",
+    "environment_seed": 2102
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Skin Care › Face › Sets & Kits",
+    "instruction": "Find me non toxic, easy use, high quality skin care tools with green tea with color: pink, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Skin Care › Face › Sets & Kits",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5373,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5373",
+    "environment_seed": 2103
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Skin Care › Face › Treatments & Masks › Facial Peels",
+    "instruction": "Find me oil free, clinically proven, paraben free scrubs & body treatments for dead skin with style: acne am face treatment with benzoyl peroxide, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "style"
+      ],
+      "product_category": "Beauty & Personal Care › Skin Care › Face › Treatments & Masks › Facial Peels",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3734,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3734",
+    "environment_seed": 2104
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+    "instruction": "Find me high quality bags & cases for eye shadow with color: 001 leopard print, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6418,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6418",
+    "environment_seed": 2105
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Fragrance",
+    "instruction": "Find me long lasting men's fragrance with natural ingredients, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Beauty & Personal Care › Fragrance",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6395,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6395",
+    "environment_seed": 2106
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Hair Care › Hair Extensions, Wigs & Accessories › Hair Extensions",
+    "instruction": "Find me high quality hair extensions, wigs & accessories for hair loss with size: 12 inch, and price lower than 110.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Beauty & Personal Care › Hair Care › Hair Extensions, Wigs & Accessories › Hair Extensions",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4445,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4445",
+    "environment_seed": 2107
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+    "instruction": "Find me teeth whitening, easy use children's dental care with color: b, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6829,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6829",
+    "environment_seed": 2108
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Hair Care › Hair Loss Products › Hair Regrowth Treatments",
+    "instruction": "Find me high quality hair loss products with seed oil for hair growth, hair loss with size: 10ml, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Beauty & Personal Care › Hair Care › Hair Loss Products › Hair Regrowth Treatments",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 426,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:426",
+    "environment_seed": 2109
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Toiletry Bags",
+    "instruction": "Find me travel size, high quality skin care sets & kits, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Toiletry Bags",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1982,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1982",
+    "environment_seed": 2110
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Personal Care › Deodorants & Antiperspirants › Deodorant",
+    "instruction": "Find me anti perspirant, cruelty free deodorants & antiperspirants with scent: floral, and size: 1.6 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "scent",
+        "size"
+      ],
+      "product_category": "Beauty & Personal Care › Personal Care › Deodorants & Antiperspirants › Deodorant",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6666,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6666",
+    "environment_seed": 2111
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Skin Care › Sunscreens & Tanning Products › Self-Tanners › Body Self-Tanners",
+    "instruction": "Find me easy use, clinically proven, paraben free body care for sensitive skin with size: 4.2 ounce (pack of 1), and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Beauty & Personal Care › Skin Care › Sunscreens & Tanning Products › Self-Tanners › Body Self-Tanners",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1756,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1756",
+    "environment_seed": 2112
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Hair Care › Hair Extensions, Wigs & Accessories › Hair Extensions",
+    "instruction": "Find me easy use body care for hair extensions, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Beauty & Personal Care › Hair Care › Hair Extensions, Wigs & Accessories › Hair Extensions",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5930,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5930",
+    "environment_seed": 2113
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+    "instruction": "Find me easy carry, high quality hair extensions, wigs & accessories with color: black, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1146,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1146",
+    "environment_seed": 2114
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Cotton Balls & Swabs › Cotton Pads & Rounds",
+    "instruction": "Find me makeup remover for sensitive skin, nail polish with style: cellup facial cleansing brush, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "style"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Cotton Balls & Swabs › Cotton Pads & Rounds",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3779,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3779",
+    "environment_seed": 2115
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases",
+    "instruction": "Find me leak proof refillable containers with travel bottles, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5769,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5769",
+    "environment_seed": 2116
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+    "instruction": "Find me easy carry, high quality hair extensions, wigs & accessories with color: 5pcs black+5pcs rose red, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2038,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2038",
+    "environment_seed": 2117
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases",
+    "instruction": "Find me easy carry, high quality refillable containers with rose gold with size: 0.5 0unce, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3504,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3504",
+    "environment_seed": 2118
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+    "instruction": "Find me high quality, teeth whitening children's dental care with quality materials for sensitive teeth with color: blue-donut, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Oral Care › Toothbrushes & Accessories › Manual Toothbrushes",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5725,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5725",
+    "environment_seed": 2119
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+    "instruction": "Find me easy carry, high quality bags & cases with color: grey, and price lower than 20.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "beauty",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Beauty & Personal Care › Tools & Accessories › Bags & Cases › Cosmetic Bags",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2003,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2003",
+    "environment_seed": 2120
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+    "instruction": "Find me compatible apple online game services with case cover with color: sunset, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6408,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6408",
+    "environment_seed": 2121
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Cell Phones & Accessories › Cases, Holsters & Sleeves › Basic Cases",
+    "instruction": "Find me heavy duty iphone accessories for wireless charging with color: electroplate whitte-11, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Cell Phones & Accessories › Cases, Holsters & Sleeves › Basic Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6861,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6861",
+    "environment_seed": 2122
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Camera & Photo › Video Surveillance › Surveillance Cameras › Hidden Cameras",
+    "instruction": "Find me 1080p hd video surveillance for motion detection, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Camera & Photo › Video Surveillance › Surveillance Cameras › Hidden Cameras",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4917,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4917",
+    "environment_seed": 2123
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+    "instruction": "Find me compatible apple online game services with case cover with color: cambridge blue, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3819,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3819",
+    "environment_seed": 2124
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+    "instruction": "Find me high performance, high speed flashes with color: red, and size: 256mb, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1782,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1782",
+    "environment_seed": 2125
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Headphones › Over-Ear Headphones",
+    "instruction": "Find me hands free headphones for wireless bluetooth with color: white nude, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Electronics › Headphones › Over-Ear Headphones",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5000,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5000",
+    "environment_seed": 2126
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Cell Phones & Accessories › Accessories › Smartwatch Accessories › Smartwatch Bands",
+    "instruction": "Find me compatible apple wearable technology with stainless steel with color: rose gold, and size: 44mm, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Cell Phones & Accessories › Accessories › Smartwatch Accessories › Smartwatch Bands",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3735,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3735",
+    "environment_seed": 2127
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Accessories & Supplies › Audio & Video Accessories › Remote Controls & Accessories › Remote Controls",
+    "instruction": "Find me easy use vcrs with aaa batteries, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Accessories & Supplies › Audio & Video Accessories › Remote Controls & Accessories › Remote Controls",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 349,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:349",
+    "environment_seed": 2128
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Home Audio › Turntables & Accessories › Turntables",
+    "instruction": "Find me plug play, easy use turntables, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Home Audio › Turntables & Accessories › Turntables",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4674,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4674",
+    "environment_seed": 2129
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Camera & Photo › Binoculars & Scopes › Binoculars",
+    "instruction": "Find me heavy duty, high definition binoculars & scopes for bird watching, and price lower than 110.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Camera & Photo › Binoculars & Scopes › Binoculars",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1987,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1987",
+    "environment_seed": 2130
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+    "instruction": "Find me compatible apple online game services with case cover with color: red, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1475,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1475",
+    "environment_seed": 2131
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Data Storage › External Hard Drives",
+    "instruction": "Find me high speed, plug play mac, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Computers & Accessories › Data Storage › External Hard Drives",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3042,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3042",
+    "environment_seed": 2132
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+    "instruction": "Find me high performance, high speed flashes with color: green, and size: 512mb, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6743,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6743",
+    "environment_seed": 2133
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Home Audio › Home Theater › Receivers & Amplifiers › Amplifiers",
+    "instruction": "Find me power amplifier, easy use receivers & amplifiers with aluminum alloy, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Electronics › Home Audio › Home Theater › Receivers & Amplifiers › Amplifiers",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1699,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1699",
+    "environment_seed": 2134
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Cell Phones & Accessories › Accessories › Automobile Accessories › Cradles",
+    "instruction": "Find me quick release, hands free iphone accessories for wireless charging with color: original, and style: windshield, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "style"
+      ],
+      "product_category": "Cell Phones & Accessories › Accessories › Automobile Accessories › Cradles",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4763,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4763",
+    "environment_seed": 2135
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Camera & Photo › Binoculars & Scopes › Binoculars",
+    "instruction": "Find me high power, non slip binoculars & scopes for bird watching with style: 10x50 uhd binoculars, and price lower than 190.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "style"
+      ],
+      "product_category": "Electronics › Camera & Photo › Binoculars & Scopes › Binoculars",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1268,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1268",
+    "environment_seed": 2136
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+    "instruction": "Find me high performance, high speed flashes with color: black, and size: 512mb, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Data Storage › USB Flash Drives",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5815,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5815",
+    "environment_seed": 2137
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+    "instruction": "Find me compatible apple online game services with case cover with color: green, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Electronics › Computers & Accessories › Tablet Accessories › Bags, Cases & Sleeves › Cases",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4797,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4797",
+    "environment_seed": 2138
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Cell Phones & Accessories › Accessories › Smartwatch Accessories › Smartwatch Bands",
+    "instruction": "Find me easy install, compatible apple wearable technology, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Cell Phones & Accessories › Accessories › Smartwatch Accessories › Smartwatch Bands",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2754,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2754",
+    "environment_seed": 2139
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Cell Phones & Accessories › Accessories › Automobile Accessories › Cradles",
+    "instruction": "Find me quick release, hands free iphone accessories for wireless charging with color: dash kit, and style: squeeze, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "electronics",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "style"
+      ],
+      "product_category": "Cell Phones & Accessories › Accessories › Automobile Accessories › Cradles",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5083,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5083",
+    "environment_seed": 2140
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Clothing › Active › Active Shirts & Tees › T-Shirts",
+    "instruction": "Find me quick drying, moisture wicking women's activewear with long sleeve with color: c-navy blue, and size: medium, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Clothing › Active › Active Shirts & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4101,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4101",
+    "environment_seed": 2141
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with polyester heathers, heathers cotton, cotton heather with fit type: men, and size: 3x-large, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "fit type",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5073,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5073",
+    "environment_seed": 2142
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with cotton spandex, classic fit, short sleeve with color: delft, and size: x-large, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1737,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1737",
+    "environment_seed": 2143
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Clothing › Jumpsuits, Rompers & Overalls › Jumpsuits",
+    "instruction": "Find me slim fit, machine wash women's jumpsuits, rompers & overalls with short sleeve, high waist, polyester spandex for daily wear with color: yellow, and size: medium, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Clothing › Jumpsuits, Rompers & Overalls › Jumpsuits",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2282,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2282",
+    "environment_seed": 2144
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Shoes › Loafers & Slip-Ons",
+    "instruction": "Find me slip resistant, non slip men's loafers & slip-ons with rubber outsole, rubber sole with color: black-hole228, and size: 8.5, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Shoes › Loafers & Slip-Ons",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2376,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2376",
+    "environment_seed": 2145
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with cotton spandex, classic fit, short sleeve with color: patina green, and size: 5x, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2466,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2466",
+    "environment_seed": 2146
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+    "instruction": "Find me wash cold, machine wash men's shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit with color: kelly green, and fit type: men, and size: 4t, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "fit type",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 906,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:906",
+    "environment_seed": 2147
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Active › Sets › Active Tracksuits",
+    "instruction": "Find me slim fit men's henleys with short sleeve with color: 157- green, and size: large, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Active › Sets › Active Tracksuits",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 34,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:34",
+    "environment_seed": 2148
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with polyester heathers, heathers cotton, cotton heather, needle sleeve, classic fit with color: dark heather, and fit type: men, and size: x-large, and price lower than 30.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "fit type",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4469,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4469",
+    "environment_seed": 2149
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Shoes › Sandals › Heeled Sandals",
+    "instruction": "Find me women's pumps with closed toe, rubber sole with color: red black, and size: 10, and price lower than 80.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Shoes › Sandals › Heeled Sandals",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3114,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3114",
+    "environment_seed": 2150
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Active › Active Pants",
+    "instruction": "Find me machine wash men's pants with drawstring closure, elastic waist, polyester spandex with color: dark gray, and size: medium, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Active › Active Pants",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2936,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2936",
+    "environment_seed": 2151
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Clothing › Tops, Tees & Blouses › T-Shirts",
+    "instruction": "Find me loose fit, day comfort, hand wash women's tops, tees & blouses with short sleeve, polyester spandex for teen girls with color: b16-black, and size: x-large, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Clothing › Tops, Tees & Blouses › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2115,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2115",
+    "environment_seed": 2152
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Clothing › Active › Active Shirts & Tees › T-Shirts",
+    "instruction": "Find me quick drying, moisture wicking women's activewear with long sleeve with color: b-orange-thumbhole, and size: large, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Clothing › Active › Active Shirts & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1822,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1822",
+    "environment_seed": 2153
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Women › Clothing › Tops, Tees & Blouses › T-Shirts",
+    "instruction": "Find me loose fit, day comfort, hand wash women's tops, tees & blouses with short sleeve, polyester spandex for teen girls with color: b16-red, and size: small, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Women › Clothing › Tops, Tees & Blouses › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3211,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3211",
+    "environment_seed": 2154
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Underwear › Undershirts",
+    "instruction": "Find me machine washable men's t-shirts with short sleeve for tumble dry with color: 12 pack mix short sleeve, and size: 3x-large, and price lower than 150.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Underwear › Undershirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2478,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2478",
+    "environment_seed": 2155
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with cotton spandex, classic fit, short sleeve with color: white, and size: xx-large, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 315,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:315",
+    "environment_seed": 2156
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+    "instruction": "Find me officially licensed men's t-shirts & tanks with needle sleeve, classic fit with color: heather grey, and fit type: men, and size: large, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "fit type",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Women › Tops & Tees › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6540,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6540",
+    "environment_seed": 2157
+  },
+  {
+    "benchmark": "webshop",
+    "family": "fashion",
+    "instruction": "Find me men's polos with relaxed fit, needle sleeve with color: navy blue, and size: medium, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2599,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2599",
+    "environment_seed": 2158
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+    "instruction": "Find me machine wash men's dress shirts with cotton spandex, classic fit, short sleeve with color: delft, and size: large, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Men › Clothing › Shirts › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2624,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2624",
+    "environment_seed": 2159
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Men › Shirts › T-Shirts",
+    "instruction": "Find me machine wash men's t-shirts with long sleeve with color: swamp, and size: 3x-large big tall, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "fashion",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Clothing, Shoes & Jewelry › Novelty & More › Clothing › Novelty › Men › Shirts › T-Shirts",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5484,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5484",
+    "environment_seed": 2160
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Window Treatments › Blinds & Shades › Balloon Shades",
+    "instruction": "Find me machine washable window coverings for living room with color: beige, and size: 52\"w x 54\"l, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Window Treatments › Blinds & Shades › Balloon Shades",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 982,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:982",
+    "environment_seed": 2161
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+    "instruction": "Find me eco friendly throw blankets with fleece throw with color: thanksgivinggoo9948, and size: 39x59in, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5620,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5620",
+    "environment_seed": 2162
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Bedding › Decorative Pillows, Inserts & Covers › Throw Pillow Covers",
+    "instruction": "Find me super soft decorative pillows for living room with color: lavender, and size: 18''x18'', and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Bedding › Decorative Pillows, Inserts & Covers › Throw Pillow Covers",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4119,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4119",
+    "environment_seed": 2163
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+    "instruction": "Find me home office furniture sets for dining room, living room with color: brown | beige, and item shape: runner, and size: 5 ft 3 in x 7 ft 5 in, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "item shape",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1329,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1329",
+    "environment_seed": 2164
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Wall Art › Posters & Prints",
+    "instruction": "Find me ready hang wall art with solid wood for living room with color: fashion black girl02, and size: 12x18 inch, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Wall Art › Posters & Prints",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6570,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6570",
+    "environment_seed": 2165
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Furniture › Accent Furniture › Ottomans",
+    "instruction": "Find me high density, white item vanities with metal legs for living room with color: white, and price lower than 90.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Home & Kitchen › Furniture › Accent Furniture › Ottomans",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5721,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5721",
+    "environment_seed": 2166
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Furniture › Bedroom Furniture › Beds, Frames & Bases › Beds",
+    "instruction": "Find me assembly required bedframes with box spring, and price lower than 260.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Home & Kitchen › Furniture › Bedroom Furniture › Beds, Frames & Bases › Beds",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3389,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3389",
+    "environment_seed": 2167
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+    "instruction": "Find me eco friendly throw blankets with fleece throw with color: christmas-003goo3552, and size: 59x79in, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4125,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4125",
+    "environment_seed": 2168
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Tools & Home Improvement › Lighting & Ceiling Fans › Ceiling Lights › Island Lights",
+    "instruction": "Find me height adjustable dining tables with glass shade, contemporary design, clear glass for dining room with color: black, and price lower than 230.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Tools & Home Improvement › Lighting & Ceiling Fans › Ceiling Lights › Island Lights",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1889,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1889",
+    "environment_seed": 2169
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Kitchen & Dining › Kitchen Utensils & Gadgets › Kitchen Accessories › Comfort Mats",
+    "instruction": "Find me non slip desks for living room with color: luckygoo4796, and size: 15.7x23.6in+15.7x47.2in, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Kitchen & Dining › Kitchen Utensils & Gadgets › Kitchen Accessories › Comfort Mats",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1079,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1079",
+    "environment_seed": 2170
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+    "instruction": "Find me eco friendly throw blankets with fleece throw with color: wood grain5goo6823, and size: 39 x 49 in, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5018,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5018",
+    "environment_seed": 2171
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+    "instruction": "Find me home office furniture sets for dining room, living room with color: brown | black, and item shape: round, and size: 7 ft 8 in x 10 ft 7 in, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "item shape",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 163,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:163",
+    "environment_seed": 2172
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Mirrors › Wall-Mounted Mirrors",
+    "instruction": "Find me space saving decorative mirrors for living room with color: accent bronze, and price lower than 180.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Mirrors › Wall-Mounted Mirrors",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4345,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4345",
+    "environment_seed": 2173
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Kitchen & Dining › Kitchen Utensils & Gadgets › Kitchen Accessories › Comfort Mats",
+    "instruction": "Find me non slip desks for living room with color: christmasgoo3848, and size: 15.7x23.6in+15.7x47.2in, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Kitchen & Dining › Kitchen Utensils & Gadgets › Kitchen Accessories › Comfort Mats",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1530,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1530",
+    "environment_seed": 2174
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Office Products › Office & School Supplies › Desk Accessories & Workspace Organizers › Desk Pads & Blotters",
+    "instruction": "Find me non slip, easy clean computer armoires with pu leather with color: red, and size: 100x50cm, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Office Products › Office & School Supplies › Desk Accessories & Workspace Organizers › Desk Pads & Blotters",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3274,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3274",
+    "environment_seed": 2175
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Furniture › Bedroom Furniture › Beds, Frames & Bases › Beds",
+    "instruction": "Find me queen size beds with storage unit with color: bark grey",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color"
+      ],
+      "product_category": "Home & Kitchen › Furniture › Bedroom Furniture › Beds, Frames & Bases › Beds",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3564,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3564",
+    "environment_seed": 2176
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+    "instruction": "Find me eco friendly throw blankets with fleece throw with color: christmas 2374lgoo8402, and size: 39 x 49 in, and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Bedding › Blankets & Throws › Throws",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 628,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:628",
+    "environment_seed": 2177
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Home Décor Accents › Sculptures › Statues",
+    "instruction": "Find me tv stands with exquisite workmanship for living room with size: ivory, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Home Décor Accents › Sculptures › Statues",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 643,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:643",
+    "environment_seed": 2178
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+    "instruction": "Find me home office furniture sets for dining room, living room with color: taupe | orange, and item shape: runner, and size: 7 ft 8 in, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "item shape",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5433,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5433",
+    "environment_seed": 2179
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+    "instruction": "Find me home office furniture sets for dining room, living room with color: navy-multi, and item shape: round, and size: 1 ft 9 in x 7 ft 2 in, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "garden",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "color",
+        "item shape",
+        "size"
+      ],
+      "product_category": "Home & Kitchen › Home Décor Products › Rugs, Pads & Protectors › Area Rugs",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3826,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3826",
+    "environment_seed": 2180
+  },
+  {
+    "benchmark": "webshop",
+    "family": "grocery",
+    "instruction": "Find me artificial ingredients, non gmo, gluten free meat & seafood with quality ingredients with size: 3.5 ounce, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1083,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1083",
+    "environment_seed": 2181
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Bars › High Protein",
+    "instruction": "Find me plant based, dairy free, gluten free breakfast foods with flavor name: chocolate (12-pack), and price lower than 80.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Bars › High Protein",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 5911,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:5911",
+    "environment_seed": 2182
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: country ranch, and size: 4.25 ounce (pack of 12), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4319,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4319",
+    "environment_seed": 2183
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Frozen › Pizza › Meat",
+    "instruction": "Find me protein serving meat snacks with natural ingredients, artificial flavors with flavor: three meat, and size: 5 pack, and price lower than 140.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Frozen › Pizza › Meat",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6896,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6896",
+    "environment_seed": 2184
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Produce › Dried Fruits & Vegetables › Dried Fruits › Dried Dates",
+    "instruction": "Find me non gmo dried fruits & raisins with dietary fiber with size: 2 pound (pack of 1), and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Produce › Dried Fruits & Vegetables › Dried Fruits › Dried Dates",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2640,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2640",
+    "environment_seed": 2185
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: honey cinnamon, and size: 7.7 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3123,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3123",
+    "environment_seed": 2186
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Meat Substitutes",
+    "instruction": "Find me plant based meat substitutes with resealable bag, and price lower than 130.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Grocery & Gourmet Food › Meat Substitutes",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 337,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:337",
+    "environment_seed": 2187
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Beverages › Bottled Beverages, Water & Drink Mixes › Meal Replacement & Protein Drinks › Protein Drinks",
+    "instruction": "Find me nut free, soy free, plant based, lactose free, low sugar, gluten free, shelf stable, dairy free, non gmo beverages with artificial colors, and price lower than 50.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Grocery & Gourmet Food › Beverages › Bottled Beverages, Water & Drink Mixes › Meal Replacement & Protein Drinks › Protein Drinks",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4770,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4770",
+    "environment_seed": 2188
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Deli & Prepared Foods",
+    "instruction": "Find me low carb, grain free, chocolate covered, low sugar, gluten free, dairy free granola & nutrition bars with simple ingredients with flavor name: dark chocolate coconut almond, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name"
+      ],
+      "product_category": "Grocery & Gourmet Food › Deli & Prepared Foods",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3223,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3223",
+    "environment_seed": 2189
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: pepper jack, and size: 4.25 ounce (pack of 6), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3700,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3700",
+    "environment_seed": 2190
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Bars › High Protein",
+    "instruction": "Find me plant based, dairy free, gluten free breakfast foods with flavor name: mixed berry exercise recovery (12-pack), and price lower than 80.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Bars › High Protein",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4129,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4129",
+    "environment_seed": 2191
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: multi-seeds, and size: 4.25 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2884,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2884",
+    "environment_seed": 2192
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: sesame seeds, and size: 4.25 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 2010,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:2010",
+    "environment_seed": 2193
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: pepper jack, and size: 7.7 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1024,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1024",
+    "environment_seed": 2194
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Puffed Snacks",
+    "instruction": "Find me grain free, artificial ingredients, low calorie, high protein, low carb, non gmo, gluten free puffed snacks with flavor name: bbq, and price lower than 60.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Puffed Snacks",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4955,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4955",
+    "environment_seed": 2195
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Sports & Outdoors › Outdoor Recreation",
+    "instruction": "Find me fully cooked, freeze dried, shelf stable, ready eat fresh meal kits with size: 1 pack, and price lower than 80.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "size"
+      ],
+      "product_category": "Sports & Outdoors › Outdoor Recreation",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 6878,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:6878",
+    "environment_seed": 2196
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+    "instruction": "Find me gluten free, protein serving pantry staples with flavor name: country ranch, and size: 4.25 ounce (pack of 1), and price lower than 70.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [
+        "flavor name",
+        "size"
+      ],
+      "product_category": "Grocery & Gourmet Food › Snacks & Sweets › Snack Foods › Crackers › Flatbread",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1029,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1029",
+    "environment_seed": 2197
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Meat Substitutes",
+    "instruction": "Find me plant based meat & seafood with artificial flavors, and price lower than 120.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Grocery & Gourmet Food › Meat Substitutes",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 3278,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:3278",
+    "environment_seed": 2198
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Frozen › Vegetables › Mixed Vegetables",
+    "instruction": "Find me keto friendly, easy prepare, low carb frozen with dietary fiber, artificial flavors, and price lower than 140.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Grocery & Gourmet Food › Frozen › Vegetables › Mixed Vegetables",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 4628,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:4628",
+    "environment_seed": 2199
+  },
+  {
+    "benchmark": "webshop",
+    "family": "Grocery & Gourmet Food › Breakfast Foods › Cereals › Muesli",
+    "instruction": "Find me certified organic, high protein, gluten free breakfast foods with dietary fiber, and price lower than 40.00 dollars",
+    "metadata": {
+      "catalog": "small",
+      "category": "grocery",
+      "environment_profile": "restricted_text",
+      "inventory_seed": 1,
+      "observation_mode": "text_rich",
+      "option_keys": [],
+      "product_category": "Grocery & Gourmet Food › Breakfast Foods › Cereals › Muesli",
+      "retrieval_backend": "lexical_token_overlap",
+      "reward_nlp_backend": "all_tokens_as_nouns",
+      "session_index": 1574,
+      "split": "custom_all"
+    },
+    "split": "custom_all",
+    "task_id": "webshop:small:1:custom_all:1574",
+    "environment_seed": 2200
+  }
+]

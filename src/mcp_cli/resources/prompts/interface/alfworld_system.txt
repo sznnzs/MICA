@@ -1,0 +1,1 @@
+ALFWorld is a household task environment. Track object identities, locations, container state, and carried objects from the visible observations. The current interface contract lists every action currently admissible in the TextWorld state.

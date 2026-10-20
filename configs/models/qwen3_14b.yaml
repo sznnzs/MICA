@@ -1,0 +1,22 @@
+model:
+  model_id: qwen3_14b
+  model: qwen3_14b
+  provider: openai_compatible
+  role: policy
+  auth: none
+  base_url: ${LOCAL_MODEL_BASE_URL:-http://127.0.0.1:8000/v1}
+  proxy_mode: direct
+  send_seed: true
+  timeout_seconds: null
+  max_retries: 0
+  retry_backoff_seconds: 1
+  extra_body:
+    chat_template_kwargs:
+      enable_thinking: true
+    min_p: 0.0
+    presence_penalty: 1.5
+    top_k: 20
+  input_token_counting:
+    mode: hf_chat_template_exact
+    tokenizer_id: Qwen3-14B
+    tokenizer_path: ${QWEN3_14B_PATH:-models/Qwen3-14B}

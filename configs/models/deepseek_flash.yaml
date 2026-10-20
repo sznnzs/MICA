@@ -1,0 +1,16 @@
+model:
+  model_id: deepseek-v4-flash
+  model: ${DEEPSEEK_MODEL:-deepseek-v4-flash}
+  provider: openai_compatible
+  role: policy
+  auth: required
+  api_key_env: API_KEY
+  base_url_env: API_BASE_URL
+  proxy_mode: direct
+  send_seed: false
+  timeout_seconds: 180
+  max_retries: 0
+  retry_backoff_seconds: 0
+  extra_body: {}
+  input_token_counting:
+    mode: conservative_utf8_bytes_per_3

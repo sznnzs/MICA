@@ -1,0 +1,35 @@
+# Use this shared input profile for both Base and DART in the intervention study.
+benchmark:
+  public_presentation: stable
+  public_queries: true
+dart:
+  defaults:
+    trigger_scope: F1
+    selection_view: interface
+    selection_guidance: []
+    realization_phase_boundary: false
+    max_repair_calls: 3
+  overrides:
+    alfworld:
+      cli:
+        trigger_scope: F0
+      mcp:
+        trigger_scope: F2
+        selection_view: semantic
+        selection_guidance: [goal, progress, prerequisites, safe_retry, exact_task]
+    webshop:
+      cli:
+        selection_view: semantic
+        selection_guidance: [goal, progress, prerequisites]
+      mcp:
+        trigger_scope: F2
+        selection_view: semantic
+        selection_guidance: [goal, progress, prerequisites, safe_retry, exact_task]
+    scienceworld:
+      cli:
+        trigger_scope: F2
+        selection_view: compact
+        selection_guidance: [exact_task, remaining_requirements]
+        realization_phase_boundary: true
+      mcp:
+        selection_guidance: [goal]
